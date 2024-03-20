@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Yellow, I'm Viraj Awate</h1>
+<h1 align="center">Yellow 👋 , I'm Viraj Awate</h1>
 <h3 align="center">A passionate engineer, seeing the world is made of numbers.</h3>
 
 <!-- PROFILE VIEWS -->
