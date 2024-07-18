@@ -3,10 +3,10 @@
 <h3 align="center">A passionate engineer, seeing the world is made of numbers.</h3>
 
 <!-- PROFILE VIEWS -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=virajawate&label=Profile%20views&color=0e75b6&style=flat" alt="virajawate" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajawate&label=Profile%20views&color=0e75b6&style=flat" alt="virajawate" /> </p>
 
 <!-- PROFILE TROPHIES -->
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virajawate" alt="virajawate" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=virajawate" alt="virajawate" /></a> </p>
 
 - 🔭 I’m currently working on **Data-driven methods to understand physical systems, machine learning and sensor fusion.**
 
