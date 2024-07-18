@@ -102,10 +102,6 @@
 </a> 
 </p>
 
-![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=virajawate&show_icons=true&theme=radical)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajawate&show_icons=true&locale=en" alt="virajawate" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=virajawate&" alt="virajawate" /></p>
 
 <!--
