@@ -102,7 +102,7 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=virajawate&show_icons=true&locale=en&layout=compact" alt="virajawate" /></p>
+![Viraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=virajawate&show_icons=true&theme=radical)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=virajawate&show_icons=true&locale=en" alt="virajawate" /></p>
 
