@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- LINKED IN PROFILE -->
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/viraj-awate-1178b6255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viraj-awate-1178b6255/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/viraj-awate-1178b6255/](https://www.linkedin.com/in/viraj-awate-1178b6255/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/viraj-awate-1178b6255/" height="30" width="40" /></a>
 <!-- KAGGLE PROFILE -->
 <a href="https://kaggle.com/virajawate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="virajawate" height="30" width="40" /></a>
 <!-- INSTAGRAM -->
